@@ -4,7 +4,7 @@ A pathfinding engine written in C++ with an interactive Python (Pygame) front en
 
 The C++ backend does all the algorithmic work and exposes it as a small JSON-over-HTTP service. The Pygame client is only a viewer: it paints the grid, sends it to the backend, and animates whatever comes back.
 
-<!-- Add a screenshot or GIF of the app here, for example: ![RouteFind demo](docs/demo.png) -->
+![Screenshot](image/demo.png)
 
 ## Why the three algorithms
 
